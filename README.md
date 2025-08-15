@@ -33,7 +33,7 @@ A secure password authentication scheme is proposed which gives more security. T
 <li><code>Server</code>  ⟶ 	Django
   </br>
 <h1>🌐SYSTEM ARCHITECTURE:</h1>
-<img width="1280" height="745" alt="image" src="https://github.com/mohan7745/Web-Based-Graphical-Password-Authentication-System/blob/main/photo_2025-08-15_15-43-07.jpg?raw=true" />
+<img width="800" height="500" alt="image" src="https://github.com/mohan7745/Web-Based-Graphical-Password-Authentication-System/blob/main/photo_2025-08-15_15-43-07.jpg?raw=true" />
 
 
 
