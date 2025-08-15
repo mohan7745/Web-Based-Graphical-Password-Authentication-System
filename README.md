@@ -33,7 +33,9 @@ A secure password authentication scheme is proposed which gives more security. T
 <li><code>Server</code>  ⟶ 	Django
   </br>
 <h1>🌐SYSTEM ARCHITECTURE:</h1>
+The data flow diagram (DFD) is one of the most important modeling tools. It is used to model the system components. These components are the system process, the data used by the process, an external entity that interacts with the system and the information flows in the system.
 <img width="800" height="500" alt="image" src="https://github.com/mohan7745/Web-Based-Graphical-Password-Authentication-System/blob/main/photo_2025-08-15_15-43-07.jpg?raw=true" />
+
 
 
 
