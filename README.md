@@ -49,6 +49,8 @@ The purpose of testing is to discover errors. Testing is the process of trying t
 <li> <code>Test strategy and approach</code>
 
 <h1>📋Application Preview:</h1>
+<h4>Terminal</h4>
 <img width="800" height="500" alt="image" src="https://github.com/mohan7745/Web-Based-Graphical-Password-Authentication-System/blob/main/Terminal.jpg?raw=true" />
  </br>
 In above screen DJANGO server started and now open browser and enter URL and press enter key to get below page.
+
