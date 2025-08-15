@@ -21,16 +21,17 @@ A secure password authentication scheme is proposed which gives more security. T
 
 <h3>HARDWARE REQUIREMENTS: </h3>
 
-•	System			            : 	AMD RYZEN 5
-•	Hard Disk 			: 	120 GB.
-•	Ram				:	8 GB
+<li>System			            : 	AMD RYZEN 5
+<li>Hard Disk 			: 	120 GB.
+<li>Ram				:	8 GB
+  </br>
 <h3>SOFTWARE REQUIREMENTS:</h3>
+<li>Operating system 		: 	Windows 11 
+<li>Coding Language		:	python
+<li>Tool				:	 PyCharm
+<li>Database			:	Sqlite3
+<li>Server         :   	Django
 
-•	Operating system 		: 	Windows 11 
-•	Coding Language		:	python
-•	Tool				:	 PyCharm
-•	Database			:	Sqlite3
-•	Server                 		:   	Django
 
 
 
