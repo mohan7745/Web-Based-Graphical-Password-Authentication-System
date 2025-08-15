@@ -26,11 +26,11 @@ A secure password authentication scheme is proposed which gives more security. T
 <li>Ram				:	8 GB
   </br>
 <h3>SOFTWARE REQUIREMENTS:</h3>
-<li>Operating system 		: 	Windows 11 
-<li>Coding Language		:	python
-<li>Tool				:	 PyCharm
-<li>Database			:	Sqlite3
-<li>Server         :   	Django
+<li> <code>Operating system </code> 		: 	Windows 11 
+<li><code>Coding Language</code>	:	python
+<li><code>tool</code>:	 PyCharm
+<li><code>Database</code>		:	Sqlite3
+<li><code>Server</code>  :   	Django
 
 
 
