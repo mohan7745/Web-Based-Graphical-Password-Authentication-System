@@ -55,3 +55,11 @@ The purpose of testing is to discover errors. Testing is the process of trying t
 In above screen DJANGO server started and now open browser and enter URL and press enter key to get below page.
 </br>
 
+<img width="800" height="500" alt="" />
+<img width="800" height="500" alt="" />
+<img width="800" height="500" alt="" />
+<img width="800" height="500" alt="" />
+<img width="800" height="500" alt="" />
+<img width="800" height="500" alt="" />
+<img width="800" height="500" alt="" />
+
