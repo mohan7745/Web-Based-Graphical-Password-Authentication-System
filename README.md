@@ -23,7 +23,7 @@ A secure password authentication scheme is proposed which gives more security. T
 
 <li>	<code>System	</code>	 ⟶ 	AMD RYZEN 5
 <li>	<code>Hard Disk </code>	⟶	120 GB.
-<li>  <code>>Ram	</code>	⟶	8 GB
+<li>  <code>Ram	</code>	⟶	8 GB
   </br>
 <h3>SOFTWARE REQUIREMENTS:</h3>
 <li> <code>Operating system </code> 	⟶	Windows 11 
@@ -31,6 +31,8 @@ A secure password authentication scheme is proposed which gives more security. T
 <li><code>tool</code>	⟶ PyCharm
 <li><code>Database</code>	⟶	Sqlite3
 <li><code>Server</code>  ⟶ 	Django
+  </br>
+<h1>🌐SYSTEM ARCHITECTURE:</h1>
 
 
 
