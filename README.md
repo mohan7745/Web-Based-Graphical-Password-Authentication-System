@@ -108,7 +108,10 @@ In conclusion, the proposed secure password authentication scheme using a combin
 6.Continuous Monitoring and Threat Analysis</br>
 7.Cross-Platform Compatibility</br>
 
- 
+<h1>👨‍🎓Author:</h1>
+</br>
+ <h1>Pathlavath Mohan</h1> </br>
+ SQL | python | Sqlite3 | Django
 
 
 
