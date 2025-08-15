@@ -36,7 +36,7 @@ A secure password authentication scheme is proposed which gives more security. T
 The data flow diagram (DFD) is one of the most important modeling tools. It is used to model the system components. These components are the system process, the data used by the process, an external entity that interacts with the system and the information flows in the system.
 <img width="800" height="500" alt="image" src="https://github.com/mohan7745/Web-Based-Graphical-Password-Authentication-System/blob/main/photo_2025-08-15_15-43-07.jpg?raw=true" />
   </br>
-<h1>⚙️SYSTEM TESTING </h1>
+<h1>⚙️SYSTEM TESTING :</h1>
 The purpose of testing is to discover errors. Testing is the process of trying to discover every conceivable fault or weakness in a work product. It provides a way to check the functionality of components, sub assemblies, assemblies and/or a finished product. It is the process of exercising software with the intent of ensuring that the software system meets its requirements and user expectations and does not fail in an unacceptable manner. There are various types of tests. Each test type addresses a specific testing requirement. 
  </br>
 <h3>TYPES OF TESTS:</h3>
@@ -47,3 +47,5 @@ The purpose of testing is to discover errors. Testing is the process of trying t
 <li> <code>White Box Testing</code>
 <li> <code>Black Box Testing</code>
 <li> <code>Test strategy and approach</code>
+
+<h1>🖥Application Preview:</h1>
