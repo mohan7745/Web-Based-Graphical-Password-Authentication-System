@@ -11,3 +11,8 @@ The secret key is the fundamental key to gets approval. How programmers are a lo
 </br></br>
 <h1>📂 Proposed system: </h1>
 A secure password authentication scheme is proposed which gives more security. This method uses a combination of pattern, key, and dummy digits. For this, the client needs to perceive and enlist design as area numbers from the network, register key qualities that guide esteem to secret password, and attach faker qualities to misguide the attacker. From that point forward to logging in, the client needs to review the example and guide the secret key from design with enrolled key qualities, making a secret word by including sham digits. It minimizes shoulder surfing, brute-force attacks, cross site scripting etc. due to the high complexity of guessing passwords in multi-levels: first from the pattern, then from key, and then from dummy values.
+</br>
+<h1> ✅Advantages of Proposed System: </h1>
+<li>Storage Requirements</br>
+<li>Usability Issues</br>
+<li>Longer Authentication Time</br>
