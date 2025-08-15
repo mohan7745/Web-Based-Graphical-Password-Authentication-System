@@ -110,7 +110,7 @@ In conclusion, the proposed secure password authentication scheme using a combin
 
 <h1>👨‍🎓Author:</h1>
 </br>
- <h1>Pathlavath Mohan</h1> </br>
+ <h3>Pathlavath Mohan</h3> </br>
  SQL | python | Sqlite3 | Django
 
 
