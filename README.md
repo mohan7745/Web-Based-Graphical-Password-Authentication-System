@@ -55,42 +55,42 @@ The purpose of testing is to discover errors. Testing is the process of trying t
 In above screen DJANGO server started and now open browser and enter URL and press enter key to get below page.
 </br>
 <h3> 2.User Interface</h3>
-<img width="800" height="500" alt="https://github.com/mohan7745/Web-Based-Graphical-Password-Authentication-System/blob/main/User%20Interface.jpg?raw=true" />
+<img width="800" height="500" alt="image" src="https://github.com/mohan7745/Web-Based-Graphical-Password-Authentication-System/blob/main/User%20Interface.jpg?raw=true" />
  </br> </br>
  In above screen click on ‘New User Signup’ link to add new user details.
  </br>
 <h3> 3.New User Login</h3>
-<img width="800" height="500" alt="https://github.com/mohan7745/Web-Based-Graphical-Password-Authentication-System/blob/main/New%20User%20Login.jpg?raw=true" />
+<img width="800" height="500" alt="image" src="https://github.com/mohan7745/Web-Based-Graphical-Password-Authentication-System/blob/main/New%20User%20Login.jpg?raw=true" />
  </br> </br>
  In above screen user is entering signup details and in place of password browsing and uploading image and then enter remaining details.
   </br>
   <h3> 4.User Credentials</h3>
-<img width="800" height="500" alt="https://github.com/mohan7745/Web-Based-Graphical-Password-Authentication-System/blob/main/User%20Credentials.jpg?raw=true" />
+<img width="800" height="500" alt="image" src="https://github.com/mohan7745/Web-Based-Graphical-Password-Authentication-System/blob/main/User%20Credentials.jpg?raw=true" />
  </br> </br>
  In above screen after entering all details click on ‘Register’ button to get below page with image.
    </br>
  <h3> 5.User Spot Selection </h3>
-<img width="800" height="500" alt=https://github.com/mohan7745/Web-Based-Graphical-Password-Authentication-System/blob/main/User%20Spot%20Selection.jpg?raw=true"" />
+<img width="800" height="500" alt="image" src=https://github.com/mohan7745/Web-Based-Graphical-Password-Authentication-System/blob/main/User%20Spot%20Selection.jpg?raw=true"" />
 </br>
 In above image user has to click on any part of the region then location will be added to text fields and first field will display the current location of mouse so you will know which point your mouse is at and u need to select 4 spot and then will get below screen.
   </br>
 <h3>6.User Spot Submission</h3>
-<img width="800" height="500" alt="https://github.com/mohan7745/Web-Based-Graphical-Password-Authentication-System/blob/main/User%20Spot%20Submission.jpg?raw=true" />
+<img width="800" height="500" alt="image" src="https://github.com/mohan7745/Web-Based-Graphical-Password-Authentication-System/blob/main/User%20Spot%20Submission.jpg?raw=true" />
   </br></br>
   In above screen I selected 4 spots and all those X and Y selected values are filled in the text fields and then press button to get below page.
   </br>
 <h3>7.Admin Login </h3>
-<img width="800" height="500" alt="https://github.com/mohan7745/Web-Based-Graphical-Password-Authentication-System/blob/main/Admin%20Login.jpg?raw=true" />
+<img width="800" height="500" alt="image" src="https://github.com/mohan7745/Web-Based-Graphical-Password-Authentication-System/blob/main/Admin%20Login.jpg?raw=true" />
   </br></br>
   In above screen admin is login and after login will get below page.
    </br>
 <h3>8.View Registered User Details</h3>
-<img width="800" height="500" alt="https://github.com/mohan7745/Web-Based-Graphical-Password-Authentication-System/blob/main/View%20Registered%20User%20Details.jpg?raw=true" />
+<img width="800" height="500" alt="image" src="https://github.com/mohan7745/Web-Based-Graphical-Password-Authentication-System/blob/main/View%20Registered%20User%20Details.jpg?raw=true" />
  </br></br>
  In above screen admin can see all users details such as username and password as image and selected 4 spots and now logout and login as user suresh. 
    </br>
   <h3> 9.User Login Successful</h3>
-<img width="800" height="500" alt="https://github.com/mohan7745/Web-Based-Graphical-Password-Authentication-System/blob/main/User%20Login%20Successful.jpg?raw=true" />
+<img width="800" height="500" alt="image" src="https://github.com/mohan7745/Web-Based-Graphical-Password-Authentication-System/blob/main/User%20Login%20Successful.jpg?raw=true" />
  </br></br>
  In above screen in red colour text we can see login is successful and if u give wrong details then authentication will get failed and if you want to reset password with new image and spots selection then click on ‘Rest Password’ link and repeat same steps.   </br>
 <Strong>NOTE:</Strong>In any field if values are available then just delete those values from the field so new selected spot values can be appear.
