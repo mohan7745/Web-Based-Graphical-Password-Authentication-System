@@ -109,8 +109,7 @@ In conclusion, the proposed secure password authentication scheme using a combin
 7.Cross-Platform Compatibility</br>
 
 <h1>👨‍🎓Author:</h1>
-</br>
- <h3>Pathlavath Mohan</h3> </br>
+ <h3>Pathlavath Mohan</h3>
  SQL | python | Sqlite3 | Django
 
 
