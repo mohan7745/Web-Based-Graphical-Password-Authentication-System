@@ -93,4 +93,4 @@ In above image user has to click on any part of the region then location will be
 <img width="800" height="500" alt="image" src="https://github.com/mohan7745/Web-Based-Graphical-Password-Authentication-System/blob/main/User%20Login%20Successful.jpg?raw=true" />
  </br></br>
  In above screen in red colour text we can see login is successful and if u give wrong details then authentication will get failed and if you want to reset password with new image and spots selection then click on ‘Rest Password’ link and repeat same steps.   </br></br>
-<Strong>NOTE:</Strong>In any field if values are available then just delete those values from the field so new selected spot values can be appear.
+<Strong>NOTE:</Strong> In any field if values are available then just delete those values from the field so new selected spot values can be appear.
