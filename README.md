@@ -17,3 +17,20 @@ A secure password authentication scheme is proposed which gives more security. T
 <li>Usability Issues</br>
 <li>Longer Authentication Time</br>
 
+<h1> ♨️SYSTEM REQUIREMENTS:</h1>
+
+<h3>HARDWARE REQUIREMENTS: </h3>
+
+•	System			            : 	AMD RYZEN 5
+•	Hard Disk 			: 	120 GB.
+•	Ram				:	8 GB
+<h3>SOFTWARE REQUIREMENTS:</h3>
+
+•	Operating system 		: 	Windows 11 
+•	Coding Language		:	python
+•	Tool				:	 PyCharm
+•	Database			:	Sqlite3
+•	Server                 		:   	Django
+
+
+
