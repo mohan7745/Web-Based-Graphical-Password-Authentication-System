@@ -89,8 +89,26 @@ In above image user has to click on any part of the region then location will be
  </br></br>
  In above screen admin can see all users details such as username and password as image and selected 4 spots and now logout and login as user suresh. 
    </br>
+   CONCLUSION
   <h3> 9.User Login Successful</h3>
 <img width="800" height="500" alt="image" src="https://github.com/mohan7745/Web-Based-Graphical-Password-Authentication-System/blob/main/User%20Login%20Successful.jpg?raw=true" />
  </br></br>
  In above screen in red colour text we can see login is successful and if u give wrong details then authentication will get failed and if you want to reset password with new image and spots selection then click on ‘Rest Password’ link and repeat same steps.   </br></br>
 <Strong>NOTE:</Strong> In any field if values are available then just delete those values from the field so new selected spot values can be appear.
+</br>
+<h1>📖CONCLUSION:</h1>
+In conclusion, the proposed secure password authentication scheme using a combination of pattern, key attributes, and dummy digits represents a significant advancement in the realm of authentication security for modern web applications. By integrating these elements, the scheme addresses several critical vulnerabilities inherent in traditional password-based systems.Firstly, the use of a graphical pattern as the primary identifier enhances security by introducing a visual and intuitive authentication method. This not only makes the authentication process more user-friendly but also reduces the risk of shoulder surfing attacks, where passwords can be observed or recorded.Secondly, the registration of key attributes within the pattern adds complexity and uniqueness to each user's authentication credentials. This multi-level approach makes it significantly more challenging for attackers to guess or crack passwords through brute-force methods.
+</br>
+<h1>📈Future Scope:</h1>
+1.Integration of Advanced Biometric Technologies</br>
+2.Leveraging Machine Learning and AI</br>
+3.Exploring Blockchain Technology</br>
+4.Optimizing User Interfaces and Accessibility</br>
+5.Adapting to Evolving Cybersecurity Landscape</br>
+6.Continuous Monitoring and Threat Analysis</br>
+7.Cross-Platform Compatibility</br>
+
+ 
+
+
+
